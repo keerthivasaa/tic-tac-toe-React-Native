@@ -1,4 +1,4 @@
-# tic-tac-toe
+# tic-tac-toe Using REACT-NATIVE
 
 # RULES FOR TIC-TAC-TOE
 
